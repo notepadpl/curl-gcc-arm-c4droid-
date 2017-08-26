@@ -1,0 +1,1 @@
+cp -r /storage/emulated/legacy/curl-android-g++/include/curl   /data/data/com.n0n3m4.droidc/files/gcc/arm-linux-androideabi/include/
